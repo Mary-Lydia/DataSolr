@@ -9,5 +9,7 @@ public class SpringBootSolr1Application {
 	//this will shown only after second commit
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootSolr1Application.class, args);
+		//this is my third commit
+		//now you can see the difference by the color
 	}
 }
